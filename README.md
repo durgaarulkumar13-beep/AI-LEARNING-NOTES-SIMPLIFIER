@@ -1,0 +1,2 @@
+# AI-LEARNING-NOTES-SIMPLIFIER
+To summarize a pdf
